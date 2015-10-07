@@ -28,4 +28,11 @@ public class MainFunction {
 
 }
 
+<<<<<<< HEAD
 //wo yao test
+=======
+
+//another test
+
+>>>>>>> Test_branch
+>>>>>>> Another-test
