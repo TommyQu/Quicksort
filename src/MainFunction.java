@@ -28,9 +28,6 @@ public class MainFunction {
 
 }
 
-<<<<<<< HEAD
-//I'm Tommy Qu
-=======
 
 
 //testzs
