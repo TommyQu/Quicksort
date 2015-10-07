@@ -1,7 +1,7 @@
 import java.util.Random;
 
 public class MainFunction {
-
+	
 	public static void main(String[] args) {
 		int[] array = new int[1000];
 		int[] arrayB = new int[1000];
@@ -27,3 +27,7 @@ public class MainFunction {
 	}
 
 }
+
+
+
+//testzs
