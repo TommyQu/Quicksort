@@ -21,7 +21,6 @@ public class QuickSortRecursion {
 		}
 		return i;
 	}
-
 	public void sort(int[] array, int left, int right) {
 		int index = partition(array, left, right);
 		if (left < index - 1)
